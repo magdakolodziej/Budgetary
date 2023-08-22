@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1684415807 source:c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1684415807 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1684415807 source:c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\operationmanager.cpp
+	"operationManager.h"
+
+1692720276 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\operationmanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<iomanip>
+	"Income.h"
+	"Expense.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	"AuxiliaryMethods.h"
+
+1684415807 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\income.h
+	<iostream>
+	<math.h>
+
+1684415807 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\expense.h
+	<iostream>
+	<math.h>
+
+1692720275 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\filewithincomes.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"Income.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+
+1684415807 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<time.h>
+
+1684415807 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\textfile.h
+	<iostream>
+	"Markup.h"
+
+1692720276 c:\users\magda\documents\przyszlyprogramista\klasy i obiekty\budgetary\filewithexpenses.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"Expense.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+
